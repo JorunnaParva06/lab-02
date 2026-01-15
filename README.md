@@ -21,5 +21,5 @@ https://www.youtube.com/watch?v=hLo_PivPqkk
 
 ## How to use the app
 
-1. To add a city, first type in the city name in the EditText field, then click the Add City button.
+1. To add a city, first type in the city name in the EditText field, then click the Add City button. The newly added city may be out of view, but if you scroll down you will be able to see it in the list.
 2. To delete a city, first type in the city name in the EditText field, then click the Delete City button.
