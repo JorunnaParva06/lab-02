@@ -18,3 +18,8 @@ https://www.youtube.com/watch?v=hLo_PivPqkk
 | Student Name | CCID      |
 | ------------ | --------- |
 | N/A          | N/A |
+
+## How to use the app
+
+1. To add a city, first type in the city name in the EditText field, then click the Add City button.
+2. To delete a city, first type in the city name in the EditText field, then click the Delete City button.
